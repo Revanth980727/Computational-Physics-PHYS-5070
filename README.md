@@ -1,5 +1,7 @@
 # Computational-Physics-PHYS-5070
 
+The folder map-proj-v3 contains images of the dataset from NASA.
+
 Experiment-0: Train a Convolutional Neural Networks model on the NASA dataset.
 
 Experiment-1: GridSearchCV to train three different models: Multiple Layer Perceptron, Logistic Regression and K-nearest neighbors on the NASA dataset, and compare the performance.
